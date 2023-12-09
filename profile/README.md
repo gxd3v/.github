@@ -17,7 +17,7 @@ Every project will use websockets so each and everyone can communicate between t
 Let's keep in mind that everything here is subject to change, I still have a lot to learn to do this projects.
 
 # Technologies
-Frontend - [Svelte](https://svelte.dev/) / [TailwindCSS](https://tailwindcss.com/) / [skeleton UI](https://www.skeleton.dev/)
+Frontend - [Svelte](https://svelte.dev/) / [TailwindCSS](https://tailwindcss.com/) / [SkeletonUI](https://www.skeleton.dev/)
 
 Backend - [Go](https://go.dev/)
 
