@@ -55,3 +55,5 @@ The names of the repos might be a bit confusing so, here's what they mean:
     * Well, yssy stands for youtube spotify spotify youtube. It will be the recreation of a project I already did, it basically converts youtube playlists to spotify playlists and vice-versa (The old one i did only converts from youtube to spotify);
   * ### [gx-chat](https://github.com/gxd3v/gx-chat)
     * Basically a anonymous chat room where people can easly exchange messages without having to worry about logins and things like that;
+  * ### [gx-space-visualizer](https://github.com/gxd3v/gx-space-visualizer)
+    * A way to visualize the space on your disks inspired by [WinDirStat](https://windirstat.net/)
